@@ -98,10 +98,10 @@ const Footer = () => {
                                 <a href="#">
                                     <FaInstagram className="text-3xl" />
                                 </a>
-                                <a href="#">
+                                <a href="https://www.facebook.com/profile.php?id=100088900844634">
                                     <FaFacebook className="text-3xl" />
                                 </a>
-                                <a href="#">
+                                <a href="https://www.linkedin.com/in/md-rezaul-karim-85485b297/">
                                     <FaLinkedin className="text-3xl" />
                                 </a>
                             </div>
